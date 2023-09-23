@@ -1,7 +1,7 @@
 # Calculus_And_Data_Science
 미적분 발표에 쓰인 예제코드
 
-# 𝍕 About Project
+# 𝍕  About Project
 1학기 미적분 수행평가인 자율주제발표에 사용된 예제코드입니다.
 
 # 🗒️ About Code
